@@ -1,1 +1,1 @@
-# AI_assignment
+Just a demo how to create anaconda environment
